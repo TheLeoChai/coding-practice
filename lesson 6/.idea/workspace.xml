@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="lesson_5" targetName="lesson_5" />
+      <config projectName="lesson_6" targetName="lesson_6" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a8e7d22-e337-4765-a969-43c50ac2900a" name="Default Changelist" comment="" />
+    <list default="true" id="0669296c-f452-488d-986e-0eda6131c7dd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SXn7SWzgC3NavVO7woDJmirDpz" />
+  <component name="ProjectId" id="1SkfPmSDYcENpktnOwNgbglMfg9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,7 +43,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="lesson_5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lesson_5" TARGET_NAME="lesson_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lesson_5" RUN_TARGET_NAME="lesson_5">
+    <configuration name="lesson_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lesson_6" TARGET_NAME="lesson_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lesson_6" RUN_TARGET_NAME="lesson_6">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -54,14 +54,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4a8e7d22-e337-4765-a969-43c50ac2900a" name="Default Changelist" comment="" />
-      <created>1571718643460</created>
+      <changelist id="0669296c-f452-488d-986e-0eda6131c7dd" name="Default Changelist" comment="" />
+      <created>1572112492642</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571718643460</updated>
-      <workItem from="1571718656774" duration="1226000" />
-      <workItem from="1572062705622" duration="1079000" />
-      <workItem from="1572112436524" duration="51000" />
+      <updated>1572112492642</updated>
+      <workItem from="1572112496020" duration="950000" />
     </task>
     <servers />
   </component>
@@ -73,9 +71,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
