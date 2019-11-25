@@ -1,0 +1,3 @@
+E:/compsci practice/coding-practice/lesson 7/cmake-build-debug/CMakeFiles/lesson_7.dir
+E:/compsci practice/coding-practice/lesson 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/compsci practice/coding-practice/lesson 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
