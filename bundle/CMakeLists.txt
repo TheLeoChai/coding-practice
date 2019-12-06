@@ -3,4 +3,4 @@ project(bundle)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(bundle dpb.cpp)
+add_executable(bundle dpd.cpp)

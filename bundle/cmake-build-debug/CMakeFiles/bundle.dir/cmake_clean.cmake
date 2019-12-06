@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/bundle.dir/dpb.cpp.obj"
+  "CMakeFiles/bundle.dir/dpd.cpp.obj"
   "bundle.exe"
   "bundle.exe.manifest"
   "bundle.pdb"
