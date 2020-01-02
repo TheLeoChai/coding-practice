@@ -123,32 +123,32 @@ bundle/fast:
 	$(MAKE) -f CMakeFiles/bundle.dir/build.make CMakeFiles/bundle.dir/build
 .PHONY : bundle/fast
 
-dpd.o: dpd.cpp.o
+wc16c3p2.o: wc16c3p2.cpp.o
 
-.PHONY : dpd.o
+.PHONY : wc16c3p2.o
 
 # target to build an object file
-dpd.cpp.o:
-	$(MAKE) -f CMakeFiles/bundle.dir/build.make CMakeFiles/bundle.dir/dpd.cpp.o
-.PHONY : dpd.cpp.o
+wc16c3p2.cpp.o:
+	$(MAKE) -f CMakeFiles/bundle.dir/build.make CMakeFiles/bundle.dir/wc16c3p2.cpp.o
+.PHONY : wc16c3p2.cpp.o
 
-dpd.i: dpd.cpp.i
+wc16c3p2.i: wc16c3p2.cpp.i
 
-.PHONY : dpd.i
+.PHONY : wc16c3p2.i
 
 # target to preprocess a source file
-dpd.cpp.i:
-	$(MAKE) -f CMakeFiles/bundle.dir/build.make CMakeFiles/bundle.dir/dpd.cpp.i
-.PHONY : dpd.cpp.i
+wc16c3p2.cpp.i:
+	$(MAKE) -f CMakeFiles/bundle.dir/build.make CMakeFiles/bundle.dir/wc16c3p2.cpp.i
+.PHONY : wc16c3p2.cpp.i
 
-dpd.s: dpd.cpp.s
+wc16c3p2.s: wc16c3p2.cpp.s
 
-.PHONY : dpd.s
+.PHONY : wc16c3p2.s
 
 # target to generate assembly for a file
-dpd.cpp.s:
-	$(MAKE) -f CMakeFiles/bundle.dir/build.make CMakeFiles/bundle.dir/dpd.cpp.s
-.PHONY : dpd.cpp.s
+wc16c3p2.cpp.s:
+	$(MAKE) -f CMakeFiles/bundle.dir/build.make CMakeFiles/bundle.dir/wc16c3p2.cpp.s
+.PHONY : wc16c3p2.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... bundle"
 	@echo "... edit_cache"
-	@echo "... dpd.o"
-	@echo "... dpd.i"
-	@echo "... dpd.s"
+	@echo "... wc16c3p2.o"
+	@echo "... wc16c3p2.i"
+	@echo "... wc16c3p2.s"
 .PHONY : help
 
 
